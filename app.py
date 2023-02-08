@@ -157,12 +157,11 @@ def main():
     st.write("""    """)
    
         
-    if st.checkbox("--About US--"):
+    if st.checkbox("--About ME--"):
         st.write("""    """)
 
         st.write(e)
-        st.write(''' ***Built by CHAITANYA - RUNALI - MANSI - SANKET..***  ''') 
-        st.write(''' ***Linkedin*** : https://www.linkedin.com/in/chaitanya-teli-ab4979199 ''')
+        st.write(''' ***Built by RUNALI...***  ''') 
     
     
 
